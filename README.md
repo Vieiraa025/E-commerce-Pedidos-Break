@@ -12,7 +12,7 @@ Projeto E-comerce Pedidos Break
 |---|---|
 | _(Victor Hugo Dos Santos)_ | Responsável do dia |
 | _(Miguel Andrade Gallo)_ | |
-| _(Luiz Vieira)_ | |
+| _(Luiz Gustavo Vieira)_ | |
 
 ## Descrição do desafio
 
