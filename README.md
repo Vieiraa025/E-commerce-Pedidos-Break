@@ -10,10 +10,9 @@ Projeto E-comerce Pedidos Break
 
 | Nome | Papel na Aula 01 |
 |---|---|
-| _(nome do integrante 1)_ | Responsável do dia |
-| _(nome do integrante 2)_ | |
-| _(nome do integrante 3)_ | |
-| _(nome do integrante 4)_ | |
+| _(Victor Hugo Dos Santos)_ | Responsável do dia |
+| _(Miguel Andrade Gallo)_ | |
+| _(Luiz Vieira)_ | |
 
 ## Descrição do desafio
 
@@ -42,7 +41,7 @@ clientes, pedidos e processamento de pagamentos.)_
 ## Estrutura de pastas
 
 ```
-ecommerce-pedidos-NOMEDASQUAD/
+ecommerce-pedidos-break/
 ├── src/
 │   ├── main/
 │   │   └── java/
