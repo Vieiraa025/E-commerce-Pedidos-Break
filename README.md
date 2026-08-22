@@ -16,9 +16,7 @@ Projeto E-comerce Pedidos Break
 
 ## Descrição do desafio
 
-_(Resuma aqui, com suas palavras, o desafio: uma equipe de desenvolvimento recebeu a demanda de
-construir um sistema de gestão de pedidos para um e-commerce, contemplando cadastro de produtos,
-clientes, pedidos e processamento de pagamentos.)_
+_O nosso desafio neste projeto integrador é desenvolver o back-end de um sistema de gestão de pedidos para e-commerce. A ideia é construir uma aplicação que consiga cadastrar clientes e produtos, gerenciar as vendas (pedidos) e simular o processamento de pagamentos. Ao longo das aulas, vamos aplicar o que aprendemos sobre Java, POO e testes para criar uma API REST completa e funcional._
 
 ## Funcionalidades previstas
 
@@ -35,8 +33,6 @@ clientes, pedidos e processamento de pagamentos.)_
 - Java
 - Maven
 - Git / GitHub
-- _(demais tecnologias serão adicionadas ao longo do semestre: JUnit, Spring Boot, banco de
-  dados, GitHub Actions...)_
 
 ## Estrutura de pastas
 
@@ -45,14 +41,14 @@ ecommerce-pedidos-break/
 ├── src/
 │   ├── main/
 │   │   └── java/
-│   │       └── com/senai/ecommerce/
+│   │       └── com/senai/ecommercepedidosbreak/
 │   │           ├── modelo/
 │   │           ├── servico/
 │   │           ├── repositorio/
 │   │           └── util/
 │   └── test/
 │       └── java/
-│           └── com/senai/ecommerce/
+│           └── com/senai/ecommercepedidiosbreak/
 ├── pom.xml
 ├── README.md
 └── .gitignore
@@ -60,7 +56,7 @@ ecommerce-pedidos-break/
 
 ## Como rodar o projeto
 
-_(Preencher a partir das próximas aulas, conforme o projeto evoluir.)_
+_O projeto está na fase inicial (Java + Maven) e rodando direto pela IDE._
 
 ## Roadmap do projeto (por aula)
 
@@ -85,9 +81,9 @@ _(Preencher a partir das próximas aulas, conforme o projeto evoluir.)_
 
 ## Combinado da equipe (ética e convivência)
 
-1. _(regra 1 definida pela equipe)_
-2. _(regra 2 definida pela equipe)_
-3. _(regra 3 definida pela equipe)_
+1. _Respeito entre membros._
+2. _Entender que cada um tem suas dificuldades._
+3. _Realizar as atividades atribuídas a cada um._
 
 ## Licença
 
